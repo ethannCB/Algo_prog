@@ -1,4 +1,5 @@
 ﻿  askeven.c
   basics.c
   Génération de code en cours...
+C:\Users\ethan\Desktop\TP1_algo\Tp1_ask_even\Tp1_ask_even\askeven.c(21,8): warning C4013: 'isEven' non défini(e) ; extern retournant int pris par défaut
   Tp1_ask_even.vcxproj -> C:\Users\ethan\Desktop\TP1_algo\Tp1_ask_even\x64\Debug\Tp1_ask_even.exe

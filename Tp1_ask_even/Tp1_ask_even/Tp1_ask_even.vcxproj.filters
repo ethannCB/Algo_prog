@@ -21,9 +21,15 @@
     <ClCompile Include="askeven.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="iseven.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="askeven.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="iseven.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>

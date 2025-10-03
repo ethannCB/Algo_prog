@@ -125,9 +125,11 @@
   <ItemGroup>
     <ClCompile Include="askeven.c" />
     <ClCompile Include="basics.c" />
+    <ClCompile Include="iseven.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="askeven.h" />
+    <ClInclude Include="iseven.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
